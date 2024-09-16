@@ -7,4 +7,3 @@ Her kan dere øve på både Git og HTML kode
 4. Push til ditt repository/din fork på GitHub
 5. Spør om å merge din fork med dette repositoriet
 ### Skriv inn navnet ditt under her:
-Kristian
