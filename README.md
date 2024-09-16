@@ -11,6 +11,7 @@ Her kan dere øve på både Git og HTML kode
 5. Spør om å merge din fork med dette repositoriet
 
 ### Skriv inn navnet ditt under her:
+* Oda Elise Aanestad
 * Milana
 * Elias Nahiry
 * erza 
