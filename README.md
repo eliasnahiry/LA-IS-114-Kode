@@ -12,6 +12,14 @@ Her kan dere øve på både Git og HTML kode
 
 ### Skriv inn navnet ditt under her:
 * Truls Reime
+* Daniel Tallaksen
+* Victor Imanuel 
+* Joakim
+* Dawit
+* Amina
+* Oda Elise Aanestad
+* Milana
+* Elias Nahiry
 * erza 
 * Abokor
 * Rune Kvame
