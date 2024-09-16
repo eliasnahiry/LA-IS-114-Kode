@@ -1,4 +1,4 @@
-# Mentorkode
+# LA IS-114 Kode
 Her kan dere øve på både Git og HTML kode
 ## Utfordring 1
 1. Lag en fork av dette repositoriet
